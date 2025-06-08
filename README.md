@@ -2,7 +2,7 @@
 
 ![YouTube Thumbnail](https://img.youtube.com/vi/UOuCUdEaNXY/0.jpg)
 
-▶️ [Demo-Video auf YouTube ansehen](https://www.youtube.com/watch?v=UOuCUdEaNXY)
+▶️ [Watch Demo on YouTube](https://www.youtube.com/watch?v=UOuCUdEaNXY)
 ---
 
 Bulk set YouTube channel notification bells with a single click.

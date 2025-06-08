@@ -3,6 +3,13 @@
 Bulk set YouTube channel notification bells with a single click.
 Adds **three bell icon buttons** to your [YouTube Subscriptions page](https://www.youtube.com/feed/channels), allowing you to set all channel notification preferences to:
 
+## 🎥 Youtube Subscription Page preview (3 bell buttons):
+
+[![YouTube Demo](https://img.youtube.com/vi/UOuCUdEaNXY/0.jpg)](https://www.youtube.com/watch?v=UOuCUdEaNXY)  
+▶️ [Demo-Video auf YouTube ansehen](https://www.youtube.com/watch?v=UOuCUdEaNXY)
+
+---
+
 * 🔔 All notifications
 * 🔔 Personalized
 * 🔕 None
